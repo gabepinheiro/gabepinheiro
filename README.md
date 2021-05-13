@@ -4,7 +4,7 @@ My name is Gabriel Pinheiro, I'm from Brazil.
 
 Graduated in Systems Analysis and Development.
 
-Currently focusing on studies in Web development Full Stack Javascript.
+Currently focusing on studies in Web development - Javascript, React, NextJS, TypeScript
 
 <!--
 **gabepinheiro/gabepinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
