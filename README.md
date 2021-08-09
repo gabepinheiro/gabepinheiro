@@ -26,10 +26,8 @@
   
 ## Contato  
 <div>
-  
+  <a href="http://linkedin.com/in/gabe-pinheiro" target="_blank"><img align="center" alt="Email" src="https://img.shields.io/badge/-Linkedin-0078D4?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:gabrielpsilvas@live.com" target="_blank"><img align="center" alt="Email" src="https://img.shields.io/badge/-Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://api.whatsapp.com/send?phone=5511949034003&text=Olá!" target="_blank"><img align="center" alt="Whatsapp" src="https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5584999122284&text=Olá!"></a>
-  
 </div>
 
 <!--
