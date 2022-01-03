@@ -10,7 +10,7 @@ If you would like, feel free to contact me. You can send me an email.
 
 ```ts
 const gabe = {
-  name: 'Gabriel Pinheiro da Silva',
+  name: 'Gabriel Pinheiro',
   nickname: 'Gabe',
   education: 'Analysis and systems development',
   job: 'Frontend Developer React.js',
@@ -22,7 +22,7 @@ const gabe = {
      'HTML', 'CSS', 'Javascript', 'React.js', 'Next.js',
      'Remix.js', 'Styled components', 'GraphQL', 'Testing Library'
   ],
-  contact: "gabriepsilvas@live.com",
+  contact: "gabrielpsilvas@live.com",
 };
 ```
 
