@@ -22,7 +22,7 @@ const gabe = {
      'HTML', 'CSS', 'Javascript', 'React.js', 'Next.js',
      'Remix.js', 'Styled components', 'GraphQL', 'Testing Library'
   ],
-  contact: "gabrielpsilvas@live.com",
+  contact: "main.gabe.dev@gmail.com",
 };
 ```
 
