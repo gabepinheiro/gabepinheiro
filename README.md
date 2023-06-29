@@ -1,4 +1,4 @@
-## Hi there, I'm Gabriel Pinheiro 😀
+## Hi there, I'm Gabe 😀
 
 ### About me
 
