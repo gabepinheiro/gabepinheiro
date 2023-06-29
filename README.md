@@ -14,15 +14,15 @@ const gabe = {
   nickname: 'Gabe',
   education: 'Analysis and systems development',
   job: 'Front-End Developer',
-  hobby: ['animes', 'movies', 'football'],
-  socials: {
-    linkedin: 'https://www.linkedin.com/in/gabe-pinheiro',
-  },
   techs: [
      'HTML', 'CSS', 'JavaScript', 'TypeScript', 'ReScript', 'React.js', 'Next.js',
       ,'Styled components', 'TailwindCSS', 'PandaCSS', 'Testing Library', 'Cypress'
   ],
+  hobby: ['animes', 'movies', 'football'],
   contact: "main.gabe.dev@gmail.com",
+  socials: {
+    linkedin: 'https://www.linkedin.com/in/gabe-pinheiro',
+  }
 };
 ```
 
