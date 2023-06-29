@@ -2,9 +2,9 @@
 
 ### About me
 
-- ✊ Frontend Developer React.js
-- 🛠️ I’m currently learning TypeScript, React.js, Next.js and Remix.js.
-- 🔎 Looking for opportunities to work as Frontend Developer.
+- ✊ Front-End Developer.
+- 🛠️ I am currently working with these languages ​​and technologies: TypeScript, ReScript, React.js and Next.js.
+- 📚 Languages ​​as a goal to learn: Rust, Go, and Elixir
 
 If you would like, feel free to contact me. You can send me an email.
 
@@ -13,14 +13,14 @@ const gabe = {
   name: 'Gabriel Pinheiro',
   nickname: 'Gabe',
   education: 'Analysis and systems development',
-  job: 'Frontend Developer React.js',
+  job: 'Front-End Developer',
   hobby: ['animes', 'movies', 'football'],
   socials: {
     linkedin: 'https://www.linkedin.com/in/gabe-pinheiro',
   },
   techs: [
-     'HTML', 'CSS', 'Javascript', 'React.js', 'Next.js',
-     'Remix.js', 'Styled components', 'GraphQL', 'Testing Library'
+     'HTML', 'CSS', 'JavaScript', 'TypeScript', 'ReScript', 'React.js', 'Next.js',
+      ,'Styled components', 'TailwindCSS', 'PandaCSS', 'Testing Library', 'Cypress'
   ],
   contact: "main.gabe.dev@gmail.com",
 };
