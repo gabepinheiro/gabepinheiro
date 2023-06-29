@@ -16,7 +16,7 @@ const gabe = {
   job: 'Front-End Developer',
   techs: [
      'HTML', 'CSS', 'JavaScript', 'TypeScript', 'ReScript', 'React.js', 'Next.js',
-      ,'Styled components', 'TailwindCSS', 'PandaCSS', 'Testing Library', 'Cypress'
+      ,'Styled-Components', 'TailwindCSS', 'PandaCSS', 'Testing Library', 'Cypress'
   ],
   hobby: ['animes', 'movies', 'football'],
   contact: "main.gabe.dev@gmail.com",
