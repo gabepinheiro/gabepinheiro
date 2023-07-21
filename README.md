@@ -28,9 +28,7 @@ const gabe = {
 
 ### My open source contributions
 <img src="./assets/react.svg" alt="typescript" height="15px" style="padding-right: 3px;" align="center" /> <img src="./assets/typescript.svg" alt="typescript" height="30px" style="padding-right: 3px;" align="center" />  **codeinthedarkbrasil/manage-citd** - [chore(setup): added lint staged config file](https://github.com/codeinthedarkbrasil/manage-citd/pull/9) <br />
-
 <img src="./assets/react.svg" alt="typescript" height="15px" style="padding-right: 3px;" align="center" /> <img src="./assets/typescript.svg" alt="typescript" height="30px" style="padding-right: 3px;" align="center" /> **codeinthedarkbrasil/manage-citd** - [chore(event): added styles for event page](https://github.com/codeinthedarkbrasil/manage-citd/pull/11) <br />
-
 <img src="./assets/react.svg" alt="typescript" height="15px" style="padding-right: 3px;" align="center" /> <img src="./assets/typescript.svg" alt="typescript" height="30px" style="padding-right: 3px;" align="center" /> **codeinthedarkbrasil/manage-citd** - [feat/13: register new participant](https://github.com/codeinthedarkbrasil/manage-citd/pull/41)
 
 <!--
