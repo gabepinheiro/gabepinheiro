@@ -26,6 +26,11 @@ const gabe = {
 };
 ```
 
+### My open source contributions
+**codeinthedarkbrasil/manage-citd** - [chore(setup): added lint staged config file](https://github.com/codeinthedarkbrasil/manage-citd/pull/9) <br />
+**codeinthedarkbrasil/manage-citd** - [chore(event): added styles for event page](https://github.com/codeinthedarkbrasil/manage-citd/pull/11) <br />
+**codeinthedarkbrasil/manage-citd** - [feat/13: register new participant](https://github.com/codeinthedarkbrasil/manage-citd/pull/41)
+
 <!--
 Here are some ideas to get you started:
 
